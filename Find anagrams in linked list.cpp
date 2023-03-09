@@ -1,4 +1,4 @@
-// Proble Link
+// Problem Link
 // https://practice.geeksforgeeks.org/problems/de6f6a196aecdfb3e4939ba7729809a5a4bdfe90/1
 
 class Solution {
